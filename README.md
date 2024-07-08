@@ -9,4 +9,4 @@
 - Criar Conta;
 - Listar Conta
 
-  Para treinamento de funções em python.
+Para treinamento de funções em python.
